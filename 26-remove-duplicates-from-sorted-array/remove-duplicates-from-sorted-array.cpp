@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // Duplicate
     int removeDuplicates(vector<int>& nums) {
         if (nums.empty()) return 0;
 
