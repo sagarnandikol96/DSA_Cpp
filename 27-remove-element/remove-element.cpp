@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // Remove
     int removeElement(vector<int>& nums, int val) {
         int k = 0;
 
